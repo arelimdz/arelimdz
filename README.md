@@ -9,11 +9,16 @@
 
 ### ⚡ Fast Facts: ###
 
-- 🎓 I'm currently studying @Academy of Interactive Technology - Full Satck Software Development
-  
-- 🌱 I’m currently learning **JavaScript and React**
+- 🎓 I'm completing Coder Academy's year-long Full Stack Web Development Bootcamp to attain skills to build software (it will also come with a fancy piece of paper 📜 on completion).
 
-- 📈 Previous career - Internal Auditor in the Financial Industry
+- 🌱 I’m currently learning **JavaScript and React** and have learnt how to use the following technologies:
+  - 👩‍💻 bash, git, github, markdown
+  - 🐍 python, flask, pytest, openapi
+  - 🐘 postgresql
+  - 💅 html, css, sass, figma
+  - ⌛ trello
+
+- 📈 Previous career - Internal Auditor in the Financial Sector
   
 - 🦘 Living in Melbourne, Australia
 
@@ -21,7 +26,7 @@
   
 ### 💫 Interests: ###
 - 📚 Novels and biographies
-- 🎥 Science fiction films 
+- 🎥 Science fiction films
 - 🚴‍♀️ Cycling and Roller Skating
 
 <br>
